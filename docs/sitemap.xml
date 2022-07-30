@@ -11,10 +11,10 @@
     <loc>https://lerarosalene.github.io/posts/</loc>
     <lastmod>2022-07-30T21:57:41+03:00</lastmod>
   </url><url>
-    <loc>https://lerarosalene.github.io/tags/</loc>
+    <loc>https://lerarosalene.github.io/posts/gh-pages-ci/</loc>
     <lastmod>2022-07-30T21:57:41+03:00</lastmod>
   </url><url>
-    <loc>https://lerarosalene.github.io/posts/gh-pages-ci/</loc>
+    <loc>https://lerarosalene.github.io/tags/</loc>
     <lastmod>2022-07-30T21:57:41+03:00</lastmod>
   </url><url>
     <loc>https://lerarosalene.github.io/tags/why/</loc>
@@ -24,5 +24,9 @@
     <lastmod>2022-07-29T05:49:02+03:00</lastmod>
   </url><url>
     <loc>https://lerarosalene.github.io/categories/</loc>
+  </url><url>
+    <loc>https://lerarosalene.github.io/archive/</loc>
+  </url><url>
+    <loc>https://lerarosalene.github.io/search/</loc>
   </url>
 </urlset>
