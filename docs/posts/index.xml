@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Larissa Rosalene</title>
-    <link>https://lerarosalene.netlify.com/posts/</link>
+    <link>https://lerarosalene.github.io/posts/</link>
     <description>Recent content in Posts on Larissa Rosalene</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jul 2022 21:57:41 +0300</lastBuildDate><atom:link href="https://lerarosalene.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-RU</language>
+    <lastBuildDate>Sat, 30 Jul 2022 21:57:41 +0300</lastBuildDate><atom:link href="https://lerarosalene.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>А как деплоиться на Github Pages?</title>
-      <link>https://lerarosalene.netlify.com/posts/gh-pages-ci/</link>
+      <link>https://lerarosalene.github.io/posts/gh-pages-ci/</link>
       <pubDate>Sat, 30 Jul 2022 21:57:41 +0300</pubDate>
       
-      <guid>https://lerarosalene.netlify.com/posts/gh-pages-ci/</guid>
+      <guid>https://lerarosalene.github.io/posts/gh-pages-ci/</guid>
       <description>И желательно, автоматически.
 </description>
     </item>
     
     <item>
       <title>Парсинг CSS средствами браузера</title>
-      <link>https://lerarosalene.netlify.com/posts/css-parsing-in-browser/</link>
+      <link>https://lerarosalene.github.io/posts/css-parsing-in-browser/</link>
       <pubDate>Fri, 29 Jul 2022 05:49:02 +0300</pubDate>
       
-      <guid>https://lerarosalene.netlify.com/posts/css-parsing-in-browser/</guid>
+      <guid>https://lerarosalene.github.io/posts/css-parsing-in-browser/</guid>
       <description>1 (один) правильный метод и 1 (один) грязный хак в качестве fallback&amp;rsquo;а</description>
     </item>
     
