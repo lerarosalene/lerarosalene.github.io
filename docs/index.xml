@@ -6,7 +6,17 @@
     <description>Recent content on Larissa Rosalene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jul 2022 05:49:02 +0300</lastBuildDate><atom:link href="https://lerarosalene.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jul 2022 21:57:41 +0300</lastBuildDate><atom:link href="https://lerarosalene.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>А как деплоиться на Github Pages?</title>
+      <link>https://lerarosalene.netlify.com/posts/gh-pages-ci/</link>
+      <pubDate>Sat, 30 Jul 2022 21:57:41 +0300</pubDate>
+      
+      <guid>https://lerarosalene.netlify.com/posts/gh-pages-ci/</guid>
+      <description>И желательно, автоматически.
+</description>
+    </item>
+    
     <item>
       <title>Парсинг CSS средствами браузера</title>
       <link>https://lerarosalene.netlify.com/posts/css-parsing-in-browser/</link>
